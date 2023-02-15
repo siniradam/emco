@@ -3,6 +3,7 @@ This is a work in progress emergency communication system design blueprint.
 `EMCO` for short. It is the abbreviation of `Em`ergency `Co`mmunication
 
 [TLDR](#emco-protocol)
+[Project Organization Page](https://github.com/Emco-Project)
 
 ## WHY / HOW / STATEMENT
 We're living in a connected yet isolated world. We've all the technology yet it seems not utilized enough.
