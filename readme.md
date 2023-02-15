@@ -4,6 +4,7 @@ This is a work in progress emergency communication system design blueprint.
 
 - [TLDR](#emco-protocol)
 - [Project Organization Page](https://github.com/Emco-Project)
+- [Disaster.radio] (https://disaster.radio/) I recently found out about them.
 
 ## WHY / HOW / STATEMENT
 We're living in a connected yet isolated world. We've all the technology yet it seems not utilized enough.
